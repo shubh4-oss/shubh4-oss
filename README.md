@@ -18,6 +18,6 @@ Other Interests: Digital Marketing, AI in Business, Customer Experience
 💡 Business Strategy: Applying business frameworks to real-world problems.
 🤝 Let's Connect!
 
-💼 LinkedIn: My LinkedIn Profile
+💼 LinkedIn: https://www.linkedin.com/in/shubh-daga-087981322/
 📧 Email: shubhdaga030@gmail.com
-🐙 GitHub: My GitHub Profile
+🐙 GitHub:https://github.com/shubh4-oss
