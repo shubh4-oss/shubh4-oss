@@ -1,16 +1,23 @@
-## Hi there 👋
+🎯 A BCA graduate and PGDM student interested in Marketing Analytics, Business Strategy, and Consumer Insights.
 
-<!--
-**shubh4-oss/shubh4-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning and exploring:
 
-Here are some ideas to get you started:
+📊 Marketing Analytics: Understanding customer behaviour and campaign performance
+💻 Technology: SQL, data analysis, and digital tools
+📈 Business Strategy: Market research, consumer trends, and business problem-solving
+🧰 Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Business: Market Research, Marketing Strategy, Consumer Behaviour
+Analytics: Excel, SQL, Data Interpretation
+Technology: HTML, CSS, GitHub
+Other Interests: Digital Marketing, AI in Business, Customer Experience
+📂 Projects & Work
+
+📊 Marketing Analytics: Exploring marketing data and customer insights.
+🔍 Market Research: Analysing brands, competitors, and consumer preferences.
+💡 Business Strategy: Applying business frameworks to real-world problems.
+🤝 Let's Connect!
+
+💼 LinkedIn: My LinkedIn Profile
+📧 Email: shubhdaga030@gmail.com
+🐙 GitHub: My GitHub Profile
