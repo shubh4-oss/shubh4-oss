@@ -3,8 +3,11 @@
 🌱 Currently learning and exploring:
 
 📊 Marketing Analytics: Understanding customer behaviour and campaign performance
+
 💻 Technology: SQL, data analysis, and digital tools
+
 📈 Business Strategy: Market research, consumer trends, and business problem-solving
+
 🧰 Skills & Tools
 
 Business: Market Research, Marketing Strategy, Consumer Behaviour
