@@ -20,9 +20,11 @@
 - 🔍 **Market Research:** Analysing brands, competitors, and consumer preferences.
 - 💡 **Business Strategy:** Applying business frameworks to real-world problems.
 
-🤝 Let's Connect!
 
 🤝 Let's Connect!
+
 💼 LinkedIn: https://www.linkedin.com/in/shubh-daga-087981322/
+
 📧 Email: shubhdaga030@gmail.com
+
 🐙 GitHub:https://github.com/shubh4-oss
